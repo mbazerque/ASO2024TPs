@@ -1,4 +1,9 @@
-4a) https://github.com/mbazerque/ASO2024TPs/assets/142848887/38868a00-860a-4582-a256-090c0bbac563
-4b) https://github.com/mbazerque/ASO2024TPs/assets/142848887/a8fa11d9-f686-47bb-8913-1f9a1bc5442f
-https://github.com/mbazerque/ASO2024TPs/assets/142848887/4c8cbef0-f135-4065-b769-b2f6b028bb8d
-4c) https://github.com/mbazerque/ASO2024TPs/assets/142848887/14ecc714-9713-4a15-a99c-d971aa74318d
+# 4a)
+![4a](https://github.com/mbazerque/ASO2024TPs/assets/142848887/17f9c064-4261-40a2-8455-7849c39557f5)
+
+# 4b)
+![4b1](https://github.com/mbazerque/ASO2024TPs/assets/142848887/11f48673-c63b-4f9a-8c1d-171d7c742c6a)
+![4b2](https://github.com/mbazerque/ASO2024TPs/assets/142848887/5e6284c4-546a-45eb-a8b2-fb1d973a0f68)
+
+# 4c)
+![4c](https://github.com/mbazerque/ASO2024TPs/assets/142848887/60ad1b15-db3b-4262-87e9-f37be22667b5)
